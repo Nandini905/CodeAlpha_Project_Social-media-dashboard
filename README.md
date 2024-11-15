@@ -1,73 +1,26 @@
-# Frontend Mentor - Social Media Dashboard With Theme Switcher Solution
-
-This is a solution to the [Social media dashboard with theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H).
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+# Social Media Tracker README
 
 ## Overview
+Welcome to the Social Media Tracker! This is a web application that lets users monitor and analyze their social media activity across different platforms. Built with HTML, CSS, and JavaScript, this tool provides valuable insights to help users better understand their social media engagement, growth, and audience interaction.
 
-This is my solution to the social media dasboard with theme switcher challenge. It was built entirely with HTML, CSS and JavaScript.
+## Features
+- *Dashboard*: An easy-to-read dashboard displaying essential metrics like followers, engagement rate, and recent activity.
+- *Platform Comparison*: Users can compare metrics across multiple platforms to track growth and interaction trends.
+- *Real-Time Updates*: The website fetches updated data to provide users with the latest stats.
+- *Data Visualization*: Charts and graphs present insights in a visually engaging way.
+- *Responsive Design*: Optimized for desktop, tablet, and mobile devices.
 
-### The challenge
+## Technologies Used
+- *HTML*: For the layout and structure of the website.
+- *CSS*: For styling and responsiveness.
+- *JavaScript*: For fetching data, updating metrics, and enabling interactive features.
 
-Users should be able to:
+## Installation
+1. Clone the repository:
+   bash
+   git clone https://github.com/yourusername/social-media-tracker.git
+   
+2. Open index.html in your browser to access the tracker.
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Toggle color theme to their preference
-
-### Screenshot
-
-**Light theme**
-
-<div align="center">
-
-![light theme desktop](./images/solution-desktop-light.png)
-
-</div>
-
-<div align="center">
-
-![light theme mobile](./images/solution-mobile-light.png)
-
-</div>
-
-**Dark theme**
-
-<div align="center">
-
-![dark theme desktop](./images/solution-desktop-dark.png)
-
-</div>
-
-<div align="center">
-
-![light theme mobile](./images/solution-mobile-dark.png)
-
-</div>
-
-### Links
-
-- [Solution on Frontend Mentor](https://your-solution-url.com)
-- [Live site](https://your-live-site-url.com)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- JavaScript
-
-## Author
-
-- LinkedIn - [Nandini Pathak](https://www.linkedin.com/in/nandini-pathak-14b979217/)
-
+## Feedback
+Feel free to share suggestions, report issues, or request features. Thank you for using Social Media Tracker!
