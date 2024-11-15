@@ -18,7 +18,7 @@ Welcome to the Social Media Tracker! This is a web application that lets users m
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/social-media-tracker.git
+   git clone (https://github.com/Nandini905/CodeAlpha_Project_Social-media-dashboard/tree/main)
    
 2. Open index.html in your browser to access the tracker.
 
